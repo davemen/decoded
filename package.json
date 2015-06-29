@@ -1,0 +1,27 @@
+{
+  "name": "decoded",
+  "version": "1.0.0",
+  "description": "Simple Example",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davemen/decoded.git"
+  },
+  "keywords": [
+    "Sample"
+  ],
+  "author": "John and Jacob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davemen/decoded/issues"
+  },
+  "homepage": "https://github.com/davemen/decoded#readme"
+}
